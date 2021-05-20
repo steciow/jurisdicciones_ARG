@@ -2308,4 +2308,4 @@ gid,objeto,geom,fna,gna,nam,in1,tgl,cod_tgl,nam_prov,cod_prov,fdc,sag
 2307,Gobierno local,MULTIPOINT(-64.1321334868997 -28.5340656564634),Comisión La Noria,Comisión,La Noria,866184,Comisión Municipal,CMB,Santiago del Estero,86,IDE,IGN
 2308,Gobierno local,MULTIPOINT(-63.968949101257 -29.1595307418041),Comisión Kilómetro 49,Comisión,Kilómetro 49,866200,Comisión Municipal,CMB,Santiago del Estero,86,IDE,IGN
 2309,Gobierno local,MULTIPOINT(-58.5495209572828 -31.993830946907),Junta de Gobierno San Miguel,Junta de Gobierno,San Miguel,309005,Junta de Gobierno,JG2,Entre Ríos,30,BAHRA,IGN
-,,MULTIPOINT(-58.381944444444 -34.599722222222),,,Ciudad Autónoma de Buenos Aires,,,,Ciudad Autónoma de Buenos Aires,,,
+,,MULTIPOINT(-58.381944444444 -34.599722222222),,,Ciudad Autónoma de Buenos Aires,,,,Ciudad Autónoma de Buenos Aires,2,,
